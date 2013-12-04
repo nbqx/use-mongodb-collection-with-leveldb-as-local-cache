@@ -1,0 +1,5 @@
+{
+  "mongo_uri": "mongodb://127.0.0.1",
+  "db_name": "mydb",
+  "coll_name": "mycoll"
+}
